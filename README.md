@@ -67,3 +67,14 @@ forwards the link keeps access.
 Destination search merges the local catalogue with Nominatim, local first,
 because the seeded rows carry a rating, a budget per day and best months that
 Nominatim does not return.
+
+---
+
+## About
+
+Built by **Hardik Ghori**, a software engineer working on applied AI, computer vision and full stack systems in the San Francisco Bay Area. M.S. Software Engineering, San José State University.
+
+- Portfolio and case studies: [hardik-ghori.vercel.app](https://hardik-ghori.vercel.app)
+- Resume: [github.com/hardikghori/resume](https://github.com/hardikghori/resume)
+- LinkedIn: [in/hardik-ghori99](https://www.linkedin.com/in/hardik-ghori99/)
+- Writing: [medium.com/@hardikghori3](https://medium.com/@hardikghori3)
